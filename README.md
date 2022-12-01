@@ -9,3 +9,4 @@ _Dataset:_ [https://archive.ics.uci.edu/ml/datasets/individual+household+electri
 - This data represents a multivariate time series of power-related variables, that can be used to model and forecast future electricity consumption.
 - Observations of power consumption were collected every minute.
 
+Time series analysis for multistep forecasting is performed using _naive model_ and _ARIMA model_.
